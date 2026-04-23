@@ -122,7 +122,7 @@ netflix-data-analysis/
  🙋‍♂️ Author
 
 - GitHub: [@my-username](https://github.com/Sohanshipne)
-- LinkedIn: [my-linkedin](https://linkedin.com/in/mr-sohan=shipne)
+- LinkedIn: [my-linkedin](https://linkedin.com/in/mr-sohan=shipne/)
 
 ---
 
